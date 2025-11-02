@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Batman",
+      "year": 2022,
+      "price": 19.99,
+      "genre": "Action",
+      "rating": "7.8",
+      "description": "When the Riddler, a sadistic serial killer, begins murdering key political figures in Gotham, Batman is forced to investigate the city's hidden corruption and question his family's involvement."
+    },
+    {
+      "id": 2,
+      "title": "The Addams Family",
+      "year": 2019,
+      "price": 14.99,
+      "genre": "Animation",
+      "rating": "6.9",
+      "description": "The eccentrically macabre family moves to a bland suburb where Wednesday Addams' friendship with the daughter of a hostile and conformist local reality TV host creates conflict between the families."
+    },
+    {
+      "id": 3,
+      "title": "Sweetheart",
+      "year": 2019,
+      "price": 12.99,
+      "genre": "Horror",
+      "rating": "6.3",
+      "description": "A woman washes up on a deserted island and must fend for herself against a mysterious creature that comes out of the ocean every night."
+    },
+    {
+      "id": 4,
+      "title": "Once Upon A Time In Hollywood",
+      "year": 2019,
+      "price": 18.99,
+      "genre": "Comedy",
+      "rating": "7.6",
+      "description": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles."
+    },
+    {
+      "id": 5,
+      "title": "Scream",
+      "year": 2022,
+      "price": 17.99,
+      "genre": "Horror",
+      "rating": "6.3",
+      "description": "Twenty-five years after a streak of brutal murders shocked the quiet town of Woodsboro, a new killer has donned the Ghostface mask and begins targeting a group of teenagers."
+    },
+    {
+      "id": 6,
+      "title": "Godzilla King Of The Monsters",
+      "year": 2019,
+      "price": 16.99,
+      "genre": "Action",
+      "rating": "6.0",
+      "description": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah."
+    },
+    {
+      "id": 7,
+      "title": "Hobbs & Shaw",
+      "year": 2019,
+      "price": 15.99,
+      "genre": "Action",
+      "rating": "6.5",
+      "description": "Lawman Luke Hobbs and outcast Deckard Shaw form an unlikely alliance when a cyber-genetically enhanced villain threatens the future of humanity."
+    },
+    {
+      "id": 8,
+      "title": "Toy Story 4",
+      "year": 2019,
+      "price": 17.99,
+      "genre": "Animation",
+      "rating": "7.7",
+      "description": "When a new toy called Forky joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy."
+    }
+  ],
+  "series": [
+    {
+      "id": 101,
+      "title": "Breaking Bad",
+      "year": 2008,
+      "price": 29.99,
+      "genre": "Crime",
+      "rating": "9.5",
+      "description": "A high school chemistry teacher turned methamphetamine manufacturer partners with a former student to create and sell the world's finest crystal meth."
+    },
+    {
+      "id": 102,
+      "title": "Narcos Season 3",
+      "year": 2017,
+      "price": 24.99,
+      "genre": "Crime",
+      "rating": "8.8",
+      "description": "After the death of Pablo Escobar, the DEA continues to hunt down the Cali Cartel leaders while new players enter the cocaine trade in Colombia."
+    },
+    {
+      "id": 103,
+      "title": "Game Of Thrones",
+      "year": 2011,
+      "price": 34.99,
+      "genre": "Fantasy",
+      "rating": "9.3",
+      "description": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+    },
+    {
+      "id": 104,
+      "title": "Seal Team",
+      "year": 2017,
+      "price": 22.99,
+      "genre": "Action",
+      "rating": "7.6",
+      "description": "The lives of the most elite unit of Navy SEALs as they train, plan and execute the most dangerous, high-stakes missions our country can ask of them."
+    },
+    {
+      "id": 105,
+      "title": "Sons Of Anarchy Season 1",
+      "year": 2008,
+      "price": 19.99,
+      "genre": "Crime",
+      "rating": "8.6",
+      "description": "A man in his early 30s struggles to find a balance in his life between being a new dad and his involvement in a motorcycle club that operates outside the law."
+    }
+  ]
+}
+
