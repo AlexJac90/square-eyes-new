@@ -255,7 +255,9 @@ async function fetchSeries() {
 async function fetchProductById(id) {
     try {
         const response = await fetchData(`${API_CONFIG.baseURL}/${id}`);
-        return transformProduct(response.data);
+        // Handle both { data: {...} } and direct product object formats
+        const product = response.data || response;
+        return transformProduct(product);
     } catch (error) {
         throw new Error(`Failed to load product: ${error.message}`);
     }
